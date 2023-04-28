@@ -1,3 +1,0 @@
-C:/CLion/Transfermarkt/cmake-build-debug/CMakeFiles/Transfermarkt.dir
-C:/CLion/Transfermarkt/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/CLion/Transfermarkt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
