@@ -1,3 +1,3 @@
-C:/Users/Dixi/Desktop/CLionProjects/Transfermarkt/cmake-build-debug/CMakeFiles/Transfermarkt.dir
-C:/Users/Dixi/Desktop/CLionProjects/Transfermarkt/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Dixi/Desktop/CLionProjects/Transfermarkt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/fclty/an I/sem2/POO/Ligi-fotbal-aplicatie/Transfermarkt/cmake-build-debug/CMakeFiles/Transfermarkt.dir
+C:/fclty/an I/sem2/POO/Ligi-fotbal-aplicatie/Transfermarkt/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/fclty/an I/sem2/POO/Ligi-fotbal-aplicatie/Transfermarkt/cmake-build-debug/CMakeFiles/rebuild_cache.dir

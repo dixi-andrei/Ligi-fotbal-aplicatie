@@ -1,15 +1,31 @@
-### Nume proiect - Transfermarkt_etapa1
+# Project Name: Footbal-League-DataTransfers
 
-### Tema - Transfermarkt
+## Theme: Transfermarkt
 
-#### Clase:
-* Jucator - sunt implementate datele jucatorului ca de exemplu: nume, varsta, club si valoarea sa.  
-*  Stats_jucator - fiecare jucator are niste statistici (goluri, asisturi); aceasta clasa modifica valoarea jucatorului in functie de statisticele sale.
-*  Transfer - in clasa transfer, jucatorul se poate transfera la alt club daca oferta acestuia este mai mare sau egala decat valoare jucatorului.
-*  Club - sunt implementate numele clublui si numarul maxim de jucatori ai acestuia.
-*  Transfermarkt - in aceasta clasa este implementat un vector alocat dinamic de obiecte jucator, astfel jucatorii sunt adaugati la clubul lor.
-  
-#### Functionalitati:
-* Este capabila sa citeasca si sa retina jucatorii intr-un club.
-* Transfera jucatori la alte cluburi daca cerintele sunt respectate.
-* Poate modifica valoarea jucatorului in functiile de statisticele sale.  
+### Classes:
+1. **Jucator (Player):**
+   - *Attributes:* Name, age, club, value.
+   - *Description:* Represents a player with basic information.
+
+2. **Stats_Jucator (PlayerStats):**
+   - *Inherits from:* Jucator.
+   - *Attributes:* Goals, assists.
+   - *Description:* Modifies a player's value based on statistics.
+
+3. **Transfer:**
+   - *Attributes:* Source club, destination club, transfer offer.
+   - *Description:* Allows a player to transfer to another club if the offer is sufficient.
+
+4. **Club:**
+   - *Attributes:* Name, maximum number of players.
+   - *Description:* Represents a sports club, allowing the addition of players and coaches.
+
+5. **Transfermarkt:**
+   - *Description:* In this class, a dynamically allocated vector of player objects is implemented, adding players to their respective clubs.
+
+### Functionalities:
+- Capable of reading and retaining players within a club.
+- Transfers players to other clubs if the conditions are met.
+- Can modify the player's value based on their statistics.
+
+This project simulates a sports management system, focusing on players, transfers, clubs, and their interactions. The provided classes and functionalities encapsulate key aspects of the sports domain, promoting an organized and modular structure.

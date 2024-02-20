@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/Dixi/Desktop/CLionProjects/Transfermarkt
+# Install script for directory: C:/fclty/an I/sem2/POO/Ligi-fotbal-aplicatie/Transfermarkt
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/Dixi/Desktop/CLionProjects/Transfermarkt/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/fclty/an I/sem2/POO/Ligi-fotbal-aplicatie/Transfermarkt/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
